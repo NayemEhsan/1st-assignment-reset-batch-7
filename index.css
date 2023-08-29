@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header-img{
+    width: 400px;
+}
+.header-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 20px;
+    background-color: rgb(254, 230, 234)
+}
+.header-container{
+    width: 800px;
+}
+.header-title{
+    margin-bottom: 8px;
+   font-size: 30px;
+}
+.header-description{
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+.btn-primary{
+    padding: 10px;
+    border: none;
+    background-color:rgb(219, 126, 126);
+    color: white;
+    border-radius: 5px;
+    
+    
+}
+.btn-primary:hover{
+    background-color: brown;
+}
