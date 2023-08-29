@@ -142,3 +142,79 @@
 .insta-title{
     text-align: center;
 }
+
+/* input with background */
+.image-container {
+    position: relative;
+    width: 400px; 
+    height: 300px;
+   margin-left: 400px;
+}
+.image-container img {
+  
+    object-fit: cover;
+    width: 1100px;
+    height: 250px;
+    border-radius: 5px;
+}
+.input-field {
+    position: absolute; 
+    top: 50%; 
+    left: 120%; 
+    transform: translate(-50%, -50%); 
+    padding: 15px ;
+    border: 1px solid #ccc; 
+  border-radius: 5px;
+    
+}
+.btn-input{
+    position: absolute; 
+    top: 45%; 
+    left: 160%; 
+    transform: translateX(-50%); 
+    padding: 10px 10px; 
+    background-color: rgb(219, 126, 126); 
+    color: #fff; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer; 
+}
+.details-input{
+    position: absolute;
+    top:10%;
+    left:90%;
+     
+    translate:translateX(-50%) ;
+    padding:10px ;
+    width: 300px;
+    text-align: center;
+   
+
+}
+
+
+/* footer section */
+.footer{
+    text-align: center;
+    background-color: black;
+    padding: 100px;
+}
+.footer-title{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.footer-description{
+    color: white;
+    font-size: 10px;
+    margin-bottom: 15px;
+   
+}
+.footer-identity{
+    color: white;
+
+}
+.flower{
+    color: rgb(171, 25, 25);
+}
