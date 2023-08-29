@@ -112,3 +112,17 @@
     margin-bottom: 20px;
 }
 /* instagram section */
+.insta-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgb(254, 230, 234) ;
+    margin-top: 100px;
+    padding:50px
+}
+.logo-title{
+    text-align: center;
+}
+.span-class{
+    color: rgb(197, 7, 7);
+}
