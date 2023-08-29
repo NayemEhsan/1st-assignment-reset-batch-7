@@ -67,6 +67,7 @@
    padding:60px;
    width: 200px;
    height: 250px;
+   margin-bottom: 10px;
    
 }
 .img-box2{
@@ -77,6 +78,7 @@
    padding:60px;
    width: 200px;
    height: 250px;
+   margin-bottom: 10px;
    
 }
 .img-box3{
@@ -87,7 +89,43 @@
    padding:60px;
    width: 200px;
    height: 250px;
+   margin-bottom: 10px;
    
+}
+
+/* extra section */
+
+.flowers-logo{
+    background-color: rgb(237, 199, 199);
+    border-radius: 5px;
+    padding: 10px;
+ 
+}
+.flowers-container{
+    background-color: pink;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+
+}
+.btn-secondary{
+    padding: 10px;
+    border: none;
+    background-color:rgb(219, 126, 126);
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px;
+}
+.flower-section{
+    text-align: center;
+}
+.flower-title{
+    margin: 30px;
+    background-color: palevioletred;
+    color: rgb(10, 10, 10);
+    padding: 20px;
+    border-radius: 10px;
 }
 
 /* logo section */
@@ -107,9 +145,9 @@
 .single-logo{
     text-align: center;
 }
-.{
+.logo{
     width: 100px;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
 }
 /* instagram section */
 .insta-container{
