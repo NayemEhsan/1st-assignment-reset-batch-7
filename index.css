@@ -35,3 +35,61 @@
 .btn-primary:hover{
     background-color: brown;
 }
+
+
+/* feature section */
+
+.feature-title{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.title{
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+.img-container{
+    display: flex;
+   justify-content: space-evenly;
+   
+    text-align: center;
+
+}
+
+.feature-img{
+    width: 150px;
+}
+.img-box1{
+   text-align: center;
+   background-color:pink;
+   border-top-left-radius: 150px;
+   border-top-right-radius: 150px;
+   padding:60px;
+   width: 200px;
+   height: 250px;
+   
+}
+.img-box2{
+   text-align: center;
+   background-color: rgb(203, 203, 241);
+   border-top-left-radius: 150px;
+   border-top-right-radius: 150px;
+   padding:60px;
+   width: 200px;
+   height: 250px;
+   
+}
+.img-box3{
+   text-align: center;
+   background-color:rgb(189, 238, 189);
+   border-top-left-radius: 150px;
+   border-top-right-radius: 150px;
+   padding:60px;
+   width: 200px;
+   height: 250px;
+   
+}
+
+/* logo section */
+
+
